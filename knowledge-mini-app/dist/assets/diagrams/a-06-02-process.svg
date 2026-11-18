@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title description">
+ <title id="title">Правила эксплуатации, безопасность, очистка и переточка</title>
+ <desc id="description">Последовательность основных этапов, извлечённая из текста статьи.</desc>
+ <style>:root{--bg:#f7f9fb;--panel:#fff;--text:#17232e;--muted:#687685;--line:#526d80;--accent:#315f86;--accent2:#a06b2f;--border:#d9e0e6}
+ @media(prefers-color-scheme:dark){:root{--bg:#111a22;--panel:#18232d;--text:#edf2f5;--muted:#9aa8b4;--line:#8bb6d8;--accent:#78a8cc;--accent2:#d7a16b;--border:#30404c}}
+ text{font-family:Arial,sans-serif;fill:var(--text)}.muted{fill:var(--muted)}.line{stroke:var(--line)}
+ </style>
+ <rect width="720" height="400" rx="24" fill="var(--bg)"/>
+ <text x="36" y="48" font-size="20" font-weight="700">Правила эксплуатации, безопасность, очистка и переточка</text>
+ <text x="36" y="72" class="muted" font-size="12">Автоматический черновик · требуется инженерная проверка</text>
+ <rect x="30" y="150" width="148" height="136" rx="16" fill="var(--panel)" stroke="var(--border)"/>
+ <circle cx="57" cy="178" r="14" fill="var(--accent)"/><text x="57" y="183" text-anchor="middle" fill="#fff" font-size="12" font-weight="700">1</text>
+ <text x="48" y="220" font-size="13" font-weight="700">Снять все подшипн…</text>
+ <text x="48" y="246" class="muted" font-size="11">Проверить параметры</text><path d="M178 218h16" fill="none" stroke="var(--line)" stroke-width="2"/><path d="m192 212 8 6-8 6" fill="none" stroke="var(--line)" stroke-width="2"/><rect x="200" y="150" width="148" height="136" rx="16" fill="var(--panel)" stroke="var(--border)"/>
+ <circle cx="227" cy="178" r="14" fill="var(--accent)"/><text x="227" y="183" text-anchor="middle" fill="#fff" font-size="12" font-weight="700">2</text>
+ <text x="218" y="220" font-size="13" font-weight="700">Использовать спец…</text>
+ <text x="218" y="246" class="muted" font-size="11">Проверить параметры</text><path d="M348 218h16" fill="none" stroke="var(--line)" stroke-width="2"/><path d="m362 212 8 6-8 6" fill="none" stroke="var(--line)" stroke-width="2"/><rect x="370" y="150" width="148" height="136" rx="16" fill="var(--panel)" stroke="var(--border)"/>
+ <circle cx="397" cy="178" r="14" fill="var(--accent)"/><text x="397" y="183" text-anchor="middle" fill="#fff" font-size="12" font-weight="700">3</text>
+ <text x="388" y="220" font-size="13" font-weight="700">Замочить режущую…</text>
+ <text x="388" y="246" class="muted" font-size="11">Проверить параметры</text><path d="M518 218h16" fill="none" stroke="var(--line)" stroke-width="2"/><path d="m532 212 8 6-8 6" fill="none" stroke="var(--line)" stroke-width="2"/><rect x="540" y="150" width="148" height="136" rx="16" fill="var(--panel)" stroke="var(--border)"/>
+ <circle cx="567" cy="178" r="14" fill="var(--accent)"/><text x="567" y="183" text-anchor="middle" fill="#fff" font-size="12" font-weight="700">4</text>
+ <text x="558" y="220" font-size="13" font-weight="700">Пильные диски TCT…</text>
+ <text x="558" y="246" class="muted" font-size="11">Проверить параметры</text>
+</svg>

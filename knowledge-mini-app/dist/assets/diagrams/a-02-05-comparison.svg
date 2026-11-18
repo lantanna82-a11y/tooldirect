@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title description">
+ <title id="title">Фрезы для 3D-обработки и граверы для ЧПУ</title>
+ <desc id="description">Сравнение параметров, извлечённое из таблицы статьи.</desc>
+ <style>:root{--bg:#f7f9fb;--panel:#fff;--text:#17232e;--muted:#687685;--line:#526d80;--accent:#315f86;--accent2:#a06b2f;--border:#d9e0e6}
+ @media(prefers-color-scheme:dark){:root{--bg:#111a22;--panel:#18232d;--text:#edf2f5;--muted:#9aa8b4;--line:#8bb6d8;--accent:#78a8cc;--accent2:#d7a16b;--border:#30404c}}
+ text{font-family:Arial,sans-serif;fill:var(--text)}.muted{fill:var(--muted)}.line{stroke:var(--line)}
+ </style>
+ <rect width="720" height="400" rx="24" fill="var(--bg)"/>
+ <text x="36" y="48" font-size="20" font-weight="700">Фрезы для 3D-обработки и граверы для ЧПУ</text>
+ <text x="36" y="72" class="muted" font-size="12">Автоматический черновик · требуется инженерная проверка</text>
+ <rect x="34" y="122" width="204" height="222" rx="16" fill="var(--panel)" stroke="var(--border)"/>
+ <rect x="34" y="122" width="204" height="52" rx="16" fill="var(--accent)" opacity=".16"/>
+ <text x="50" y="153" font-size="14" font-weight="700">Тип гравера</text>
+ <circle cx="52" cy="205" r="4" fill="var(--accent)"/><text x="65" y="209" font-size="12">V образные (конические…</text><circle cx="52" cy="253" r="4" fill="var(--accent)"/><text x="65" y="257" font-size="12">Гравер «Пирамидка» (3 и…</text><circle cx="52" cy="301" r="4" fill="var(--accent)"/><text x="65" y="305" font-size="12">Гравер с торцом «полуме…</text><rect x="256" y="122" width="204" height="222" rx="16" fill="var(--panel)" stroke="var(--border)"/>
+ <rect x="256" y="122" width="204" height="52" rx="16" fill="var(--accent2)" opacity=".16"/>
+ <text x="272" y="153" font-size="14" font-weight="700">Геометрия режущей час…</text>
+ <circle cx="274" cy="205" r="4" fill="var(--accent)"/><text x="287" y="209" font-size="12">Полный угол при вершине…</text><circle cx="274" cy="253" r="4" fill="var(--accent)"/><text x="287" y="257" font-size="12">Конус со шлифованными п…</text><circle cx="274" cy="301" r="4" fill="var(--accent)"/><text x="287" y="305" font-size="12">Конус, сточенный ровно…</text><rect x="478" y="122" width="204" height="222" rx="16" fill="var(--panel)" stroke="var(--border)"/>
+ <rect x="478" y="122" width="204" height="52" rx="16" fill="var(--accent)" opacity=".16"/>
+ <text x="494" y="153" font-size="14" font-weight="700">Назначение и особенно…</text>
+ <circle cx="496" cy="205" r="4" fill="var(--accent)"/><text x="509" y="209" font-size="12">V Carving (гравировка с…</text><circle cx="496" cy="253" r="4" fill="var(--accent)"/><text x="509" y="257" font-size="12">Повышенная прочность ре…</text><circle cx="496" cy="301" r="4" fill="var(--accent)"/><text x="509" y="305" font-size="12">Классический гравер для…</text>
+</svg>

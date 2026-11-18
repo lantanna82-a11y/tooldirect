@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title description">
+ <title id="title">Цанги, патроны и системы крепления инструмента</title>
+ <desc id="description">Сравнение параметров, извлечённое из таблицы статьи.</desc>
+ <style>:root{--bg:#f7f9fb;--panel:#fff;--text:#17232e;--muted:#687685;--line:#526d80;--accent:#315f86;--accent2:#a06b2f;--border:#d9e0e6}
+ @media(prefers-color-scheme:dark){:root{--bg:#111a22;--panel:#18232d;--text:#edf2f5;--muted:#9aa8b4;--line:#8bb6d8;--accent:#78a8cc;--accent2:#d7a16b;--border:#30404c}}
+ text{font-family:Arial,sans-serif;fill:var(--text)}.muted{fill:var(--muted)}.line{stroke:var(--line)}
+ </style>
+ <rect width="720" height="400" rx="24" fill="var(--bg)"/>
+ <text x="36" y="48" font-size="20" font-weight="700">Цанги, патроны и системы крепления инструмента</text>
+ <text x="36" y="72" class="muted" font-size="12">Автоматический черновик · требуется инженерная проверка</text>
+ <rect x="34" y="122" width="204" height="222" rx="16" fill="var(--panel)" stroke="var(--border)"/>
+ <rect x="34" y="122" width="204" height="52" rx="16" fill="var(--accent)" opacity=".16"/>
+ <text x="50" y="153" font-size="14" font-weight="700">Стандарт цанги</text>
+ <circle cx="52" cy="205" r="4" fill="var(--accent)"/><text x="65" y="209" font-size="12">ER11</text><circle cx="52" cy="253" r="4" fill="var(--accent)"/><text x="65" y="257" font-size="12">ER16</text><circle cx="52" cy="301" r="4" fill="var(--accent)"/><text x="65" y="305" font-size="12">ER20</text><rect x="256" y="122" width="204" height="222" rx="16" fill="var(--panel)" stroke="var(--border)"/>
+ <rect x="256" y="122" width="204" height="52" rx="16" fill="var(--accent2)" opacity=".16"/>
+ <text x="272" y="153" font-size="14" font-weight="700">Наружный диаметр и дл…</text>
+ <circle cx="274" cy="205" r="4" fill="var(--accent)"/><text x="287" y="209" font-size="12">\varnothing 11.5 \times…</text><circle cx="274" cy="253" r="4" fill="var(--accent)"/><text x="287" y="257" font-size="12">\varnothing 17.0 \times…</text><circle cx="274" cy="301" r="4" fill="var(--accent)"/><text x="287" y="305" font-size="12">\varnothing 21.0 \times…</text><rect x="478" y="122" width="204" height="222" rx="16" fill="var(--panel)" stroke="var(--border)"/>
+ <rect x="478" y="122" width="204" height="52" rx="16" fill="var(--accent)" opacity=".16"/>
+ <text x="494" y="153" font-size="14" font-weight="700">Диапазон зажимаемых х…</text>
+ <circle cx="496" cy="205" r="4" fill="var(--accent)"/><text x="509" y="209" font-size="12">1.0\text{–}7.0 (шаг 0.5…</text><circle cx="496" cy="253" r="4" fill="var(--accent)"/><text x="509" y="257" font-size="12">1.0\text{–}10.0</text><circle cx="496" cy="301" r="4" fill="var(--accent)"/><text x="509" y="305" font-size="12">1.0\text{–}13.0</text>
+</svg>
