@@ -6,6 +6,7 @@ on:
     branches: [main]
     paths:
       - "knowledge-mini-app/**"
+      - ".github/workflows/pages.yml"
 
 permissions:
   contents: read
